@@ -53,7 +53,8 @@ Simulated incoming connections using:
 
 ## 📸 Sample Output
 
-🚨 ALERT: Incoming connection detected!
+<img width="801" height="493" alt="image" src="https://github.com/user-attachments/assets/725b595d-7060-4286-b6c3-33c8b7aeea07" />
+
 
 ---
 
